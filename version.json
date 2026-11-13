@@ -1,7 +1,16 @@
 {
   "product": "업무자동화",
-  "recommend": "0.1.13",
+  "recommend": "0.1.14",
   "versions": [
+    {
+      "ver": "0.1.14",
+      "tag": "v0.1.14",
+      "asset": "WorkAutomation_v0.1.14.exe",
+      "size": 91147195,
+      "sha256": "5cffc0e1da0e985f73295bac6713ee75915f7c4cb71f30004056340d437cced8",
+      "date": "2026-11-13",
+      "notes": "팀원 PC 할 일 목록 없음 오류 · 8000번 자리 충돌 고침"
+    },
     {
       "ver": "0.1.13",
       "tag": "v0.1.13",
