@@ -1,7 +1,16 @@
 {
   "product": "업무자동화",
-  "recommend": "0.1.8",
+  "recommend": "0.1.9",
   "versions": [
+    {
+      "ver": "0.1.9",
+      "tag": "v0.1.9",
+      "asset": "WorkAutomation_v0.1.9.exe",
+      "size": 91141407,
+      "sha256": "3e624f05901a0f78c321b9d3dbb4b4908959837bda51c977d28b5844961245ef",
+      "date": "2026-11-13",
+      "notes": "알림을 누르면 확인 후 저절로 업데이트 · 다시 켜기"
+    },
     {
       "ver": "0.1.8",
       "tag": "v0.1.8",
