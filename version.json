@@ -1,7 +1,16 @@
 {
   "product": "업무자동화",
-  "recommend": "0.1.11",
+  "recommend": "0.1.12",
   "versions": [
+    {
+      "ver": "0.1.12",
+      "tag": "v0.1.12",
+      "asset": "WorkAutomation_v0.1.12.exe",
+      "size": 91144116,
+      "sha256": "fc4c4644121b70d9805d8dab2f28584eb43ace763bfb2484826ab520fa79fa7d",
+      "date": "2026-11-13",
+      "notes": "NAS 주소 파일을 exe 옆에서도 찾음 · 안 될 때 찾아본 자리 표시"
+    },
     {
       "ver": "0.1.11",
       "tag": "v0.1.11",
