@@ -1,7 +1,16 @@
 {
   "product": "업무자동화",
-  "recommend": "0.1.9",
+  "recommend": "0.1.10",
   "versions": [
+    {
+      "ver": "0.1.10",
+      "tag": "v0.1.10",
+      "asset": "WorkAutomation_v0.1.10.exe",
+      "size": 91141299,
+      "sha256": "107c362e749dba97c7919f01ef41cd6439a1cffb0d0116df8b899eeda2559f4a",
+      "date": "2026-11-13",
+      "notes": "서버(NAS) 연결 안 되던 것 고침 · 연결 안 될 때 까닭 표시"
+    },
     {
       "ver": "0.1.9",
       "tag": "v0.1.9",
