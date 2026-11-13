@@ -1,0 +1,15 @@
+{
+  "product": "업무자동화",
+  "recommend": "0.1.7",
+  "versions": [
+    {
+      "ver": "0.1.7",
+      "tag": "v0.1.7",
+      "asset": "WorkAutomation_v0.1.7.exe",
+      "size": 91135991,
+      "sha256": "9a7274e458f60916c6bdeff6249192739a6b6b2f73a911b3e5aa4f96ad27b2e1",
+      "date": "2026-11-13",
+      "notes": "초도 배포"
+    }
+  ]
+}
