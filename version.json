@@ -1,7 +1,16 @@
 {
   "product": "업무자동화",
-  "recommend": "0.1.10",
+  "recommend": "0.1.11",
   "versions": [
+    {
+      "ver": "0.1.11",
+      "tag": "v0.1.11",
+      "asset": "WorkAutomation_v0.1.11.exe",
+      "size": 91141376,
+      "sha256": "c03893b3945402dd2066459474120b2c7d28696cb9e92731a67f53e6e17ac912",
+      "date": "2026-11-13",
+      "notes": "D 드라이브 없는 PC(C:\\WORK) 지원 · 문서\\WORK 에 쌓인 정보 옮김"
+    },
     {
       "ver": "0.1.10",
       "tag": "v0.1.10",
