@@ -1,7 +1,16 @@
 {
   "product": "업무자동화",
-  "recommend": "0.1.7",
+  "recommend": "0.1.8",
   "versions": [
+    {
+      "ver": "0.1.8",
+      "tag": "v0.1.8",
+      "asset": "WorkAutomation_v0.1.8.exe",
+      "size": 91136718,
+      "sha256": "f6838fc9e9a5a683d91aae9054c265f728c15e3f7b00e1196e39405c5a705fab",
+      "date": "2026-11-13",
+      "notes": "미구현 메뉴 회색 표시 · exe 이름 업무자동화"
+    },
     {
       "ver": "0.1.7",
       "tag": "v0.1.7",
