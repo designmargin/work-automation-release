@@ -1,7 +1,16 @@
 {
   "product": "업무자동화",
-  "recommend": "0.1.12",
+  "recommend": "0.1.13",
   "versions": [
+    {
+      "ver": "0.1.13",
+      "tag": "v0.1.13",
+      "asset": "WorkAutomation_v0.1.13.exe",
+      "size": 91144152,
+      "sha256": "8ace98b1327fd276f97cc0888515d777e56c761e96718a9e9856a69e8798ac00",
+      "date": "2026-11-13",
+      "notes": "팀원 PC 수정 반영 — NAS 주소 찾기 보강 · 서버 못 켜면 까닭 표시 · 설치 안내"
+    },
     {
       "ver": "0.1.12",
       "tag": "v0.1.12",
