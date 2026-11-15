@@ -1,7 +1,16 @@
 {
   "product": "업무자동화",
-  "recommend": "0.1.17",
+  "recommend": "0.1.18",
   "versions": [
+    {
+      "ver": "0.1.18",
+      "tag": "v0.1.18",
+      "asset": "WorkAutomation_v0.1.18.exe",
+      "size": 91349655,
+      "sha256": "af66e5312bf49e213447134d93e81871cd6105fdc7c39413d70dd41783c05bff",
+      "date": "2026-11-16",
+      "notes": "Claude 로그인 안 된 PC — 머리 'AI 로그인' 을 누르면 로그인 창이 열리고 승인하면 저절로 연결"
+    },
     {
       "ver": "0.1.17",
       "tag": "v0.1.17",
@@ -82,15 +91,6 @@
       "sha256": "3e624f05901a0f78c321b9d3dbb4b4908959837bda51c977d28b5844961245ef",
       "date": "2026-11-13",
       "notes": "알림을 누르면 확인 후 저절로 업데이트 · 다시 켜기"
-    },
-    {
-      "ver": "0.1.8",
-      "tag": "v0.1.8",
-      "asset": "WorkAutomation_v0.1.8.exe",
-      "size": 91136718,
-      "sha256": "f6838fc9e9a5a683d91aae9054c265f728c15e3f7b00e1196e39405c5a705fab",
-      "date": "2026-11-13",
-      "notes": "미구현 메뉴 회색 표시 · exe 이름 업무자동화"
     }
   ]
 }
