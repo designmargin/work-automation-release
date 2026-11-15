@@ -1,7 +1,16 @@
 {
   "product": "업무자동화",
-  "recommend": "0.1.14",
+  "recommend": "0.1.15",
   "versions": [
+    {
+      "ver": "0.1.15",
+      "tag": "v0.1.15",
+      "asset": "WorkAutomation_v0.1.15.exe",
+      "size": 91149865,
+      "sha256": "0c7a8925638db12f1f2c67132488de8a1828ff8d42622bf9d7ff7c40bcb24094",
+      "date": "2026-11-15",
+      "notes": "첫 시작 단순하게(내 정보 다섯 칸) · 결재선 빈 칸 막기 · 회의록 목록 열쇠 파일 빼기"
+    },
     {
       "ver": "0.1.14",
       "tag": "v0.1.14",
