@@ -1,7 +1,16 @@
 {
   "product": "업무자동화",
-  "recommend": "0.1.15",
+  "recommend": "0.1.16",
   "versions": [
+    {
+      "ver": "0.1.16",
+      "tag": "v0.1.16",
+      "asset": "WorkAutomation_v0.1.16.exe",
+      "size": 91313045,
+      "sha256": "13888a5d87944b2a166b949d37fde550902dd451f58f2e0bb6a9dad75f98578b",
+      "date": "2026-11-15",
+      "notes": "새 PC 시험 고침 11건 · 화면 바탕 파일 exe 안에(인터넷 없이) · 결재선 미리 채우기 · Claude 설치 다른 길"
+    },
     {
       "ver": "0.1.15",
       "tag": "v0.1.15",
