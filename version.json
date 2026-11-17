@@ -1,7 +1,16 @@
 {
   "product": "업무자동화",
-  "recommend": "0.1.19",
+  "recommend": "0.1.20",
   "versions": [
+    {
+      "ver": "0.1.20",
+      "tag": "v0.1.20",
+      "asset": "WorkAutomation_v0.1.20.exe",
+      "size": 91424898,
+      "sha256": "ae176354acd8b2e50bc504f029c5853e66dca224e6685557e31bcd4f967393a8",
+      "date": "2026-11-17",
+      "notes": "SW 개발 도우미 — 일정 줄 단추 정리 (폴더 열기 뺌 · '파일 열기')"
+    },
     {
       "ver": "0.1.19",
       "tag": "v0.1.19",
@@ -82,15 +91,6 @@
       "sha256": "c03893b3945402dd2066459474120b2c7d28696cb9e92731a67f53e6e17ac912",
       "date": "2026-11-13",
       "notes": "D 드라이브 없는 PC(C:\\WORK) 지원 · 문서\\WORK 에 쌓인 정보 옮김"
-    },
-    {
-      "ver": "0.1.10",
-      "tag": "v0.1.10",
-      "asset": "WorkAutomation_v0.1.10.exe",
-      "size": 91141299,
-      "sha256": "107c362e749dba97c7919f01ef41cd6439a1cffb0d0116df8b899eeda2559f4a",
-      "date": "2026-11-13",
-      "notes": "서버(NAS) 연결 안 되던 것 고침 · 연결 안 될 때 까닭 표시"
     }
   ]
 }
